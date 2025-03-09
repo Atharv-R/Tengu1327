@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tengu1327
+- 👋 Hi, I’m Atharv
 - 👀 I’m passionate about Math, ML and Gen AI. 
 - 🌱 I’m currently learning advanced Deep Learning in Python.
 - 📫 How to reach me : atharvraturi@berkeley.edu
